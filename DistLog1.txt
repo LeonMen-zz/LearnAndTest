@@ -7,7 +7,13 @@ Add at 27:15
 
 DDDD
 
+<<<<<<< HEAD
+afafafafaafafafa
 
+dafaf 
+=======
+
+>>>>>>> parent of 3c73250... hhh
 Parti Pair No - 1
 Time	Distance
 3.203735	6.213173
